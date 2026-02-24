@@ -28,10 +28,19 @@
 <br/>
 
 <div align="center">
-  <h2>📊 Skill Levels</h2>
-  <img src="https://progress-bar.dev/80/?title=Java&width=400&color=b07219" alt="Java 80%"/> <br><br>
-  <img src="https://progress-bar.dev/75/?title=Kotlin&width=400&color=7f52ff" alt="Kotlin 75%"/> <br><br>
-  <img src="https://progress-bar.dev/65/?title=Python&width=400&color=3572A5" alt="Python 65%"/>
+  <h2>📊 Skills & GitHub Analytics</h2>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <b>Top Languages</b><br>
+        <img src="https://quickchart.io/chart?bkg=transparent&w=350&h=200&c={type:'pie',data:{labels:['Java (80%25)','Kotlin (75%25)','Python (65%25)'],datasets:[{data:[80,75,65],backgroundColor:['%23b07219','%237f52ff','%233572A5'],borderWidth:0}]},options:{plugins:{legend:{position:'right',labels:{color:'white'}}}}}" alt="Skill Pie Chart">
+      </td>
+      <td align="center">
+        <b>GitHub Streak</b><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarakreddy011&theme=tokyonight&border_radius=10&hide_border=true" alt="GitHub Streak">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
