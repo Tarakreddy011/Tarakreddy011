@@ -1,4 +1,14 @@
-<h1 align="center">Good to See You </h1>
+<h1 >Good to See You</h1>
+
+<h4 >
+  I am Tarakeswar, a Software Engineering student at Lovely Professional University
+</h4>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,postman,selenium,kotlin,git" />
+  </a>
+</p>
 
 <h2>About Me</h2>
 
@@ -23,7 +33,7 @@
 <ul>
   <li>School Management System - <b>MarkMyDay App</b></li>
   <li>CRUD Application using Spring Boot & RESTful APIs</li>
-  <li>Web and Android based mini projects</li>
+  <li>Web and Android-based mini projects</li>
   <li>And many more...</li>
 </ul>
 
@@ -33,11 +43,4 @@
 <p>Android Development (Kotlin)</p>
 <p>Testing Using Java</p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,postman,selenium,kotlin,git" />
-  </a>
-</p>
-
-
-<h3>💡 I love working on real-world projects.</h3>
+<h3>I love working on real-world projects.</h3>
