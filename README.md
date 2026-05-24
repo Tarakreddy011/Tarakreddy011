@@ -9,14 +9,14 @@
     <img src="https://skillicons.dev/icons?i=java,python,postman,selenium,kotlin,git" />
   </a>
 </p>
-
-<h2>About Me</h2>
+<details>
+<summary><h2>About Me</h2>
 
 <p>
   My name is <b>Tarakeswar Reddy</b>. I am currently pursuing my 
   B.Tech in Computer Science and Engineering at 
   Lovely Professional University.
-</p>
+</p></summary>
 
 <p>
   I have a strong interest in Software Development, Android Development,
@@ -42,5 +42,5 @@
 <p>Java</p>
 <p>Android Development (Kotlin)</p>
 <p>Testing Using Java</p>
-
+</details>
 <h3>I love working on real-world projects.</h3>
