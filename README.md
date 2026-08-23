@@ -13,17 +13,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Hello! I'm **Singamreddy Tarakeswar Reddy**[cite: 1], a Computer Science student at Lovely Professional University[cite: 1]. I specialize in Java, Kotlin, and Spring Boot full-stack development[cite: 1]. I enjoy solving complex problems, building scalable backend services, and optimizing application performance[cite: 1].
 
-* 🎓 **Education:** B.Tech in Computer Science at Lovely Professional University[cite: 1]
-* 💻 **Focus:** Full-Stack & Android Development[cite: 1]
-* ⚡ **Achievement:** Solved 75+ DSA problems on LeetCode and HackerRank[cite: 1]
+*  **Education:** B.Tech in Computer Science at Lovely Professional University[cite: 1]
+*  **Focus:** Full-Stack & Android Development[cite: 1]
+*  **Achievement:** Solved 75+ DSA problems on LeetCode and HackerRank[cite: 1]
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -37,7 +37,7 @@ Hello! I'm **Singamreddy Tarakeswar Reddy**[cite: 1], a Computer Science student
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 * **PayMy Fee**[cite: 1]  
   Java full-stack fee management system using Spring Boot with REST architecture[cite: 1].
@@ -48,7 +48,7 @@ Hello! I'm **Singamreddy Tarakeswar Reddy**[cite: 1], a Computer Science student
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
