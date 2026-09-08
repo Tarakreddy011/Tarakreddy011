@@ -120,6 +120,8 @@ RESTful API providing CRUD operations with **Supabase integration**.
 - Supabase
 - Backend development
 
+  ## spam  Vs Skill
+
 <!-- FUTURE:
      Add screenshots/GIFs and repository links for your
      strongest projects.
